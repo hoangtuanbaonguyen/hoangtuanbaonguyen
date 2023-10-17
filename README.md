@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Bao 👨‍💻    
-A genuine man who adores programming. I think AI is great for the In the modern decade,     
-AI doesn't cause us lose our employment, but it does provide us with a new performance     
-strategy to finish our tasks quickly, more than ever before.
+A genuine man who adores programming.
 
 📬 How to reach me:    
 
